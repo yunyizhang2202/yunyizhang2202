@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Soft footer garden">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f7f5ef"/>
+      <stop offset="50%" stop-color="#eef4eb"/>
+      <stop offset="100%" stop-color="#f8f6f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="140" rx="22" fill="url(#bg)"/>
+  <path d="M0 100 C137 82 228 122 358 102 C498 81 605 120 900 90 L900 140 L0 140 Z" fill="#d8e4d2"/>
+  <path d="M0 112 C139 97 254 133 395 112 C539 90 648 130 900 102 L900 140 L0 140 Z" fill="#c3d5bc" opacity="0.8"/>
+  <g opacity="0.9">
+    <path d="M100 109 v-34" stroke="#90a987" stroke-width="2.8" stroke-linecap="round"/>
+    <path d="M100 92 c-16 -11 -20 -21 -20 -27 c12 1 22 8 27 20" fill="#c0d3b6"/>
+    <path d="M100 83 c16 -11 22 -18 23 -28 c-13 1 -23 8 -28 19" fill="#a8c19d"/>
+    <path d="M760 111 v-36" stroke="#90a987" stroke-width="2.8" stroke-linecap="round"/>
+    <path d="M760 93 c-16 -11 -20 -21 -20 -27 c12 1 22 8 27 20" fill="#c0d3b6"/>
+    <path d="M760 84 c16 -11 22 -18 23 -28 c-13 1 -23 8 -28 19" fill="#a8c19d"/>
+  </g>
+  <text x="450" y="57" text-anchor="middle" font-size="16" font-family="Georgia, serif" fill="#6f826a">thank you for visiting this little digital garden</text>
+</svg>

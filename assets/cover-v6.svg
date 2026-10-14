@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="310" viewBox="0 0 960 310" role="img" aria-label="Soft illustrated field notebook landscape">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F3F1E8"/><stop offset="0.58" stop-color="#E6EEE7"/><stop offset="1" stop-color="#D6E2DB"/></linearGradient>
+  <linearGradient id="hill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#B7CBB4"/><stop offset="1" stop-color="#88AD9A"/></linearGradient>
+  <pattern id="grain" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r=".55" fill="#668878" opacity=".16"/></pattern>
+</defs>
+<rect x="0" y="0" width="960" height="310" rx="24" fill="url(#sky)"/>
+<rect width="960" height="310" rx="24" fill="url(#grain)"/>
+<circle cx="790" cy="70" r="37" fill="#F2E0BB" opacity=".78"/>
+<path d="M535 214 C626 120 704 159 774 192 C836 134 900 156 960 182 V310 H530 Z" fill="#D3DFD3"/>
+<path d="M460 252 C575 208 674 234 775 211 C854 188 911 201 960 194 V310 H460 Z" fill="#AEC7B6"/>
+<path d="M0 290 C142 247 252 283 382 268 C559 241 696 279 960 251 V310 H0 Z" fill="url(#hill)"/>
+<path d="M0 303 C204 290 279 310 418 295 C587 279 752 307 960 287 V310 H0 Z" fill="#7DA590" opacity=".63"/>
+<g stroke="#657E6D" stroke-width="2.6" stroke-linecap="round" fill="none" opacity=".9">
+ <path d="M760 283 Q764 238 750 199"/><path d="M760 269 Q746 231 715 222"/><path d="M780 284 Q787 250 809 222"/>
+ <path d="M900 296 Q901 253 892 229"/><path d="M900 277 Q926 252 930 234"/>
+</g>
+<g fill="#93B29D"><path d="M758 240 Q720 228 711 201 Q750 203 758 240Z"/><path d="M763 257 Q788 220 817 211 Q808 251 763 257Z"/><path d="M747 251 Q714 259 705 244 Q730 228 747 251Z"/><path d="M895 271 Q866 255 864 237 Q887 241 895 271Z"/><path d="M908 269 Q943 250 944 232 Q916 230 908 269Z"/></g>
+<g fill="none" stroke="#637D70" stroke-width="2.4" stroke-linecap="round"><path d="M831 101 q10 -10 20 0 q10 -10 20 0"/><path d="M865 117 q7 -7 14 0 q7 -7 14 0"/></g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#486558">
+  <text x="58" y="65" font-size="12" letter-spacing="4" font-weight="600">FIELD NOTES  /  NATURE &amp; IDEAS</text>
+  <text x="55" y="150" font-size="59" font-family="Georgia, 'Times New Roman', serif" fill="#36594B">Yunyi Zhang</text>
+  <text x="58" y="183" font-size="19" letter-spacing="1" fill="#5C796C">Ecology  ·  Evolution  ·  Biodiversity</text>
+  <text x="59" y="231" font-size="16" fill="#6F8579">Curious about the living world.</text>
+</g>
+<path d="M59 248 H266" stroke="#789A85" stroke-width="1" opacity=".65"/>
+</svg>

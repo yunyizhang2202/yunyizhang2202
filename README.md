@@ -1,68 +1,58 @@
 <div align="center">
+  <img src="assets/leaf-sprig.svg" width="165" alt="A small leafy branch" />
 
-# Yunyi Zhang
+  <h1>Hi, I'm Yunyi 🌿</h1>
 
-**Ecology · Evolution · Biodiversity**
+  <p><em>Learning from nature, one little question at a time.</em></p>
 
-MSc student at the **University of Edinburgh**  
-BSc (Hons) Environmental Science · University of Liverpool / Xi'an Jiaotong-Liverpool University
+  <p><strong>Ecology · Evolution · Biodiversity</strong></p>
 
-*Exploring nature through ecology, data and small interactive tools.*
-
-`R` · `Python` · `GIS` · `Research methods`
-
-<br/>
-
+  <p>
+    MSc · University of Edinburgh<br/>
+    <sub>BSc (Hons) Environmental Science · University of Liverpool / Xi'an Jiaotong-Liverpool University</sub>
+  </p>
 </div>
 
-## About me
+---
 
-I'm interested in **biodiversity conservation**, **human–nature connections**, and ways of making ecological ideas easier to explore through **data**, **visualisation**, and **interactive projects**.
+### A little about me
 
-我关注**生物多样性保护**、**人与自然的关系**，以及如何用**数据**、**可视化**和一些小项目去更直观地探索自然世界。
+I'm drawn to questions about **biodiversity**, **human–nature connections**, and the stories hidden in ecological data. I like exploring those ideas through research, visualisation, and small interactive projects.
+
+我关注生物多样性、人与自然的关系，也喜欢用数据和小工具，把复杂的生态过程变得更直观一点。
+
+### Little things I'm exploring
+
+🌱 **Conservation & biodiversity** · 🐾 **Human–wildlife interactions**  
+📊 **Ecological data & visualisation** · 🧭 **Research methods**
+
+<sub>Tools along the way: `R` · `Python` · `GIS`</sub>
+
+### Things I've made
+
+- 🏝️ **[Archipelago Evolution Lab](https://github.com/yunyizhang2202/Archipelago-Evolution-Lab)** — A little interactive simulator for exploring natural selection, drift, and migration across islands.
+- 🐧 **[Penguin Project](https://github.com/yunyizhang2202/penguin_project)** — Exploring Palmer penguins' morphometric data with R.
 
 ---
 
-## Interests & tools
+### A tiny corner of this page 🐾
 
-- 🍃 Biodiversity conservation  
-- 🐾 Human–wildlife interactions  
-- 📊 Ecological data & visualisation  
-- 🧭 Research methods / small scientific tools  
-
----
-
-## Selected projects
-
-- **[Archipelago Evolution Lab](https://github.com/yunyizhang2202/Archipelago-Evolution-Lab)**  
-  An interactive Chinese-language evolution simulator exploring natural selection, drift and migration across islands.
-
-- **[Penguin Project](https://github.com/yunyizhang2202/penguin_project)**  
-  Exploring Palmer penguins' morphometric data with R.
-
----
-
-## A small corner
+<sub>My two virtual pets · 我的两只虚拟宠物</sub>
 
 <table>
   <tr>
-    <td align="center" width="125">
-      <img src="assets/xiaomai.png" width="80" height="80" alt="小麦 Xiaomai" /><br />
-      <sub><b>小麦 · Xiaomai</b></sub><br />
-      <sub>virtual pet</sub>
+    <td align="center" width="130">
+      <img src="assets/xiaomai.png" width="76" alt="小麦 Xiaomai" /><br/>
+      <sub><b>小麦 · Xiaomai</b></sub>
     </td>
-    <td align="center" width="125">
-      <img src="assets/ali-placeholder.svg" width="80" height="80" alt="阿栗 Ali placeholder" /><br />
-      <sub><b>阿栗 · Ali</b></sub><br />
-      <sub>coming soon</sub>
+    <td align="center" width="130">
+      <img src="assets/ali-placeholder.svg" width="76" alt="阿栗 Ali portrait placeholder" /><br/>
+      <sub><b>阿栗 · Ali</b></sub><br/>
+      <sub>portrait to come</sub>
     </td>
   </tr>
 </table>
 
----
-
-## Currently building
-
-- A personal digital archive  
-- Ecology / biodiversity related study notes and projects  
-- Small tools and experiments that make learning more visual and interactive
+<div align="center">
+  <img src="assets/leaf-sprig.svg" width="115" alt="" />
+</div>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="58" viewBox="0 0 300 58" role="img" aria-label="Soft green botanical ornament">
+  <path d="M86 38 C123 18 167 17 213 39" fill="none" stroke="#91a88c" stroke-width="2.1" stroke-linecap="round"/>
+  <path d="M114 26 C101 12 89 16 87 17 C91 32 103 34 114 26Z" fill="#b5cbaa"/>
+  <path d="M135 22 C132 7 119 5 116 6 C115 17 122 25 135 22Z" fill="#d2dfc9"/>
+  <path d="M164 23 C166 7 179 5 183 7 C182 19 175 25 164 23Z" fill="#bfd4ba"/>
+  <path d="M187 27 C202 14 212 18 214 20 C210 34 197 36 187 27Z" fill="#d2dfc9"/>
+  <circle cx="65" cy="24" r="2.6" fill="#d4bda4"/>
+  <path d="M239 15 V25 M234 20 H244" stroke="#d4bda4" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="254" cy="36" r="1.8" fill="#c3d5bc"/>
+</svg>

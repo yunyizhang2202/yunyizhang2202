@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="464" height="244" viewBox="0 0 464 244" role="img" aria-label="Penguin illustration for Palmer penguins data project">
+<rect width="464" height="244" rx="22" fill="#E8EBEF"/>
+<path d="M0 182 Q97 172 206 188 Q335 197 464 174 V244 H0Z" fill="#D2DCE0"/>
+<path d="M0 212 Q127 192 220 211 Q336 223 464 201 V244 H0Z" fill="#B5CDD0"/>
+<g transform="translate(300 43)">
+<ellipse cx="58" cy="107" rx="37" ry="67" fill="#435968" transform="rotate(-6 58 107)"/>
+<ellipse cx="66" cy="120" rx="23" ry="50" fill="#F5F4EF" transform="rotate(-6 66 120)"/>
+<ellipse cx="55" cy="52" rx="26" ry="27" fill="#435968"/>
+<ellipse cx="68" cy="59" rx="12" ry="17" fill="#F5F4EF"/>
+<circle cx="65" cy="49" r="3" fill="#F8FAFA"/><circle cx="66" cy="49" r="1.3" fill="#303D45"/>
+<path d="M77 60 l21 6 -19 7Z" fill="#D7A878"/>
+<path d="M28 107 q-22 25 -20 46 q32 -10 35 -19Z" fill="#435968"/>
+<path d="M51 169 l-12 18 h23 l5 -16 M74 171 l-5 16 h22 l-6 -22" stroke="#D4A678" stroke-width="5" fill="none" stroke-linecap="round"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#455968">
+ <text x="27" y="37" font-size="11" letter-spacing="3" font-weight="700">02   /   DATA EXPLORATION</text>
+ <text x="27" y="88" font-size="31" font-family="Georgia, serif" font-weight="600">Penguin</text>
+ <text x="27" y="122" font-size="31" font-family="Georgia, serif" font-weight="600">Project</text>
+ <text x="27" y="151" font-size="14" fill="#6A7D88">morphometrics · R</text>
+</g>
+<g fill="#FCFEFE" opacity=".8"><circle cx="26" cy="196" r="2.5"/><circle cx="204" cy="175" r="1.6"/><circle cx="238" cy="201" r="3"/></g>
+</svg>

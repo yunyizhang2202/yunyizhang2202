@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="132" viewBox="0 0 960 132" role="img" aria-label="A gentle woodland nook, autumn acorns and golden wheat">
+<defs>
+ <linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f1e9dc"/><stop offset=".52" stop-color="#f8f5ed"/><stop offset="1" stop-color="#eaf2e7"/></linearGradient>
+</defs>
+<rect width="960" height="132" rx="19" fill="url(#b)"/>
+<path d="M0 108 C175 94 326 124 490 106 C656 87 809 120 960 102 L960 132 H0 Z" fill="#cddbc4" opacity=".66"/>
+<g stroke="#987751" stroke-width="2.6" fill="none" stroke-linecap="round">
+ <path d="M118 108 V40 M118 78 Q91 71 88 54 M118 67 Q148 57 151 42"/>
+ <path d="M185 113 V73 M185 91 Q169 86 168 73"/>
+</g>
+<g fill="#c69c6e">
+ <path d="M112 69 Q86 63 88 48 Q113 50 112 69Z"/>
+ <path d="M124 57 Q150 52 152 36 Q126 37 124 57Z"/>
+ <path d="M181 90 Q158 89 163 70 Q182 76 181 90Z"/>
+</g>
+<g transform="translate(790 22)" stroke="#8ca67d" stroke-width="2.4" fill="none" stroke-linecap="round">
+ <path d="M33 87 V10 M35 37 L8 20 M34 52 L61 29 M34 64 L15 50 M34 76 L55 62"/>
+ <path d="M10 20 q9 -14 15 -13 q-1 13 -15 13 M60 28 q-6 -13 -19 -13 q6 12 19 13 M16 49 q7 -10 16 -11 q-2 12 -16 11 M57 62 q-3 -11 -17 -13 q4 13 17 13" fill="#b1c6a4"/>
+</g>
+<g fill="#b89a71"><circle cx="255" cy="39" r="2.3"/><circle cx="711" cy="42" r="2.3"/></g>
+<text x="480" y="53" text-anchor="middle" font-size="13" font-family="Arial, sans-serif" letter-spacing="4" fill="#718674">A LITTLE CORNER</text>
+<text x="480" y="85" text-anchor="middle" font-size="22" font-family="Georgia, serif" fill="#536b58">two virtual companions</text>
+</svg>

@@ -37,4 +37,3 @@ R · Python · GIS · Research methods
   </tr>
 </table>
 
-<sub>Just my two virtual pets, not portraits of me. / 它们只是我的两只虚拟宠物，并非我的个人形象。</sub>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="464" height="244" viewBox="0 0 464 244" role="img" aria-label="Islands illustration for Archipelago Evolution Lab project">
+<rect width="464" height="244" rx="22" fill="#DBECE9"/>
+<path d="M0 169 Q109 149 228 174 Q339 194 464 158 V244 H0Z" fill="#A9D0CA"/>
+<path d="M0 197 Q109 172 242 200 Q345 219 464 179 V244 H0Z" fill="#80B9B3"/>
+<path d="M24 201 C59 178 83 173 121 185 C154 195 168 218 149 236 H20Z" fill="#759F80"/><path d="M26 202 Q77 164 124 188" stroke="#B7D0AD" stroke-width="8" fill="none"/>
+<path d="M211 223 C245 171 283 166 318 192 C335 206 336 229 325 244 H207Z" fill="#648F77"/><path d="M211 222 Q267 164 313 195" fill="none" stroke="#A6C2A2" stroke-width="8"/>
+<path d="M353 225 C377 207 407 203 447 213 L464 240 V244 H340Z" fill="#779B80"/>
+<g fill="none" stroke="#426F67" stroke-width="3" opacity=".7"><path d="M40 166 q8 -6 16 0 q8 -6 16 0"/><path d="M332 157 q6 -5 12 0 q6 -5 12 0"/></g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#315E58">
+  <text x="27" y="37" font-size="11" letter-spacing="3" font-weight="700">01   /   INTERACTIVE PROJECT</text>
+  <text x="27" y="83" font-size="30" font-family="Georgia, serif" font-weight="600">Archipelago</text>
+  <text x="27" y="114" font-size="30" font-family="Georgia, serif" font-weight="600">Evolution Lab</text>
+  <text x="27" y="144" font-size="14" fill="#507B72">selection · drift · migration</text>
+</g>
+</svg>

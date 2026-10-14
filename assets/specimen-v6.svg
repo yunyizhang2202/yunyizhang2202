@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="196" viewBox="0 0 960 196" role="img" aria-label="Botanical specimen study interests card">
+<rect width="960" height="196" rx="22" fill="#F5F2E9"/>
+<rect x="11" y="11" width="938" height="174" rx="14" stroke="#CFD8C5" stroke-width="1.4" stroke-dasharray="2 7" fill="none"/>
+<g transform="translate(85 20)" fill="none" stroke="#789B81" stroke-width="3" stroke-linecap="round">
+  <path d="M73 157 C79 118 69 88 75 21"/>
+  <path d="M73 99 C40 73 30 53 27 31"/>
+  <path d="M74 77 C105 59 110 37 113 18"/>
+  <path d="M72 126 C110 110 120 94 124 74"/>
+  <path d="M75 52 C62 32 57 20 57 12"/>
+</g>
+<g fill="#B2C8AE" stroke="#819D82" stroke-width="1.5" transform="translate(85 20)">
+  <path d="M66 80 Q20 91 27 31 Q65 43 66 80Z"/>
+  <path d="M80 61 Q128 62 113 18 Q78 24 80 61Z"/>
+  <path d="M84 116 Q142 120 124 74 Q84 77 84 116Z"/>
+  <path d="M76 48 Q43 45 57 12 Q79 20 76 48Z"/>
+</g>
+<text x="53" y="183" font-size="10" fill="#92A28F" font-family="Arial" letter-spacing="2">FIG. 01  ·  FIELD SPECIMEN</text>
+<path d="M240 31 V164" stroke="#D4D7C9" stroke-width="1.5"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#52695C">
+<text x="274" y="52" font-size="13" letter-spacing="3" fill="#819784">AREAS OF CURIOSITY</text>
+<text x="274" y="97" font-family="Georgia, serif" font-size="25" fill="#395747">Biodiversity &amp; conservation</text>
+<text x="274" y="124" font-size="17">Human–wildlife encounters</text>
+<text x="274" y="150" font-size="17">Ecological data &amp; visual storytelling</text>
+</g>
+<circle cx="903" cy="42" r="19" fill="#E6DAC4" opacity=".68"/><circle cx="901" cy="42" r="5" fill="#D7C2A0"/>
+</svg>

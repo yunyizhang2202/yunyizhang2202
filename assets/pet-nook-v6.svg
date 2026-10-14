@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="104" viewBox="0 0 960 104" role="img" aria-label="Cozy illustrated corner for two virtual pets">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F4F0E7"/><stop offset=".5" stop-color="#E9F0E7"/><stop offset="1" stop-color="#F5F0E7"/></linearGradient></defs>
+<rect width="960" height="104" rx="20" fill="url(#g)"/>
+<path d="M0 88 Q186 72 332 89 Q547 107 697 86 Q813 73 960 90" stroke="#C4D5BC" stroke-width="2" fill="none"/>
+<g fill="none" stroke="#A4BE9E" stroke-width="3" stroke-linecap="round"><path d="M130 86 v-33"/><path d="M826 86 v-33"/></g>
+<g fill="#B8CEAE"><path d="M130 72 Q102 66 99 50 Q126 51 130 72Z"/><path d="M132 63 Q157 57 160 41 Q135 44 132 63Z"/><path d="M827 73 Q801 67 799 52 Q823 52 827 73Z"/><path d="M829 65 Q852 59 858 43 Q834 44 829 65Z"/></g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#66816F"><text x="480" y="40" font-size="12" font-weight="700" letter-spacing="4" text-anchor="middle">THE LITTLE COMPANIONS</text><text x="480" y="68" font-size="17" font-family="Georgia, serif" text-anchor="middle">Xiaomai  &amp;  Ali</text></g>
+<g fill="#E2C5A6"><circle cx="230" cy="36" r="2.7"/><circle cx="736" cy="33" r="2.7"/><circle cx="758" cy="46" r="1.8"/></g>
+</svg>

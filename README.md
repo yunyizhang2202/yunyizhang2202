@@ -1,94 +1,54 @@
 <div align="center">
-  <img src="assets/banner-garden.svg" width="100%" alt="Soft botanical banner with green hills and plants" />
+  <img src="assets/cover-v6.svg" width="100%" alt="Yunyi Zhang: a soft, illustrated landscape of hills, plants and birds" />
+  <p><sub>MSc Ecology, Evolution and Biodiversity · University of Edinburgh</sub><br/>
+  <sub>BSc (Hons) Environmental Science · University of Liverpool / Xi'an Jiaotong-Liverpool University</sub></p>
 </div>
 
-<br/>
+### 01 / Hello, I'm Yunyi
+
+I'm interested in **biodiversity conservation**, **human–wildlife encounters**, and the ways people connect with nature. I enjoy exploring ecological questions through research, data and small interactive projects.
+
+你好！我关注生物多样性保护、人与野生动物的相遇，以及人与自然之间的联系。也喜欢用数据和交互式小工具，让复杂的生态问题更容易理解。
 
 <div align="center">
-  <sub>MSc · University of Edinburgh</sub><br/>
-  <sub>BSc (Hons) Environmental Science · University of Liverpool / Xi'an Jiaotong-Liverpool University</sub>
+  <img src="assets/specimen-v6.svg" width="100%" alt="An illustrated field specimen card showing my interests: biodiversity, wildlife encounters and ecological data" />
+  <p><sub>Currently exploring with R · Python · GIS</sub></p>
 </div>
 
-<div align="center">
-  <img src="assets/soft-divider.svg" width="120" alt="" />
-</div>
+### 02 / Selected projects
 
 <table>
   <tr>
-    <td valign="top" width="55%">
-      <h3>A little about me</h3>
-      <p>I'm drawn to questions about <b>biodiversity</b>, <b>human–nature connections</b>, and the stories hidden in ecological data. I enjoy exploring those ideas through research, visualisation, and small interactive tools.</p>
-      <p>我关注 <b>生物多样性</b>、<b>人与自然的关系</b>，也喜欢用数据、可视化和一些小项目，把复杂的生态过程变得更直观一点。</p>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/yunyizhang2202/Archipelago-Evolution-Lab"><img src="assets/islands-v6.svg" width="100%" alt="Archipelago Evolution Lab illustrated island project card" /></a>
+      <p><b><a href="https://github.com/yunyizhang2202/Archipelago-Evolution-Lab">Explore the islands ↗</a></b><br/><sub>An interactive evolution simulator about natural selection, genetic drift and migration.</sub></p>
     </td>
-    <td valign="top" width="45%">
-      <h3>At a glance</h3>
-      🌱 ecology &amp; biodiversity<br/>
-      🐾 human–wildlife connections<br/>
-      📊 data &amp; visualisation<br/>
-      🧭 small research tools<br/>
-      🍃 quiet digital-garden energy<br/><br/>
-      <sub>Tools along the way: R · Python · GIS</sub>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/yunyizhang2202/penguin_project"><img src="assets/penguins-v6.svg" width="100%" alt="Penguin Project illustrated penguin project card" /></a>
+      <p><b><a href="https://github.com/yunyizhang2202/penguin_project">Meet the penguins ↗</a></b><br/><sub>Exploring Palmer penguins' morphometric data with R.</sub></p>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="assets/meadow-strip.svg" width="100%" alt="Soft meadow decoration" />
-</div>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Things I'm exploring</h3>
-      🌿 Biodiversity conservation<br/>
-      🌱 Human–nature stories<br/>
-      🐧 Ecological data &amp; visualisation<br/>
-      🧭 Interactive learning tools
-    </td>
-    <td valign="top" width="50%">
-      <h3>A small note</h3>
-      <p>I like projects that feel <b>gentle</b>, <b>clear</b>, and a little bit alive — something between a study notebook and a quiet place to keep growing.</p>
-      <p>我喜欢带一点温度的页面与项目：清楚、安静、但不死板。</p>
-    </td>
-  </tr>
-</table>
+### 03 / A little corner 🐾
 
 <div align="center">
-  <img src="assets/soft-divider.svg" width="120" alt="" />
+  <img src="assets/pet-nook-v6.svg" width="100%" alt="A quiet illustrated nook for two virtual pets" />
+  <p><sub>My two virtual pets · 我的两只虚拟宠物</sub></p>
 </div>
-
-### Things I've made
-
-- 🏝️ **[Archipelago Evolution Lab](https://github.com/yunyizhang2202/Archipelago-Evolution-Lab)**  
-  A small interactive simulator for exploring natural selection, drift, and migration across islands.
-
-- 🐧 **[Penguin Project](https://github.com/yunyizhang2202/penguin_project)**  
-  Exploring Palmer penguins' morphometric data with R.
-
-<div align="center">
-  <img src="assets/meadow-strip.svg" width="100%" alt="Soft meadow decoration" />
-</div>
-
-### A tiny corner of this page 🐾
-
-<div align="center"><sub>My two virtual pets · 我的两只虚拟宠物</sub></div>
 
 <table align="center">
   <tr>
     <td align="center" width="160">
-      <img src="assets/xiaomai.png" width="82" alt="小麦 Xiaomai" /><br/>
+      <img src="assets/xiaomai.png" width="82" alt="小麦 Xiaomai"/><br/>
       <sub><b>小麦 · Xiaomai</b></sub>
     </td>
     <td align="center" width="160">
-      <img src="assets/ali-placeholder.svg" width="82" alt="阿栗 Ali portrait placeholder" /><br/>
+      <img src="assets/ali-placeholder.svg" width="82" alt="阿栗 Ali placeholder"/><br/>
       <sub><b>阿栗 · Ali</b></sub><br/>
-      <sub>portrait to come</sub>
+      <sub>portrait coming soon</sub>
     </td>
   </tr>
 </table>
 
-<br/>
-
-<div align="center">
-  <img src="assets/footer-garden.svg" width="100%" alt="Soft footer garden" />
-</div>
+<div align="center"><sub>✦ A small notebook of nature, ideas and things in progress. ✦</sub></div>

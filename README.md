@@ -1,76 +1,68 @@
 <div align="center">
-  <img src="assets/cover-v6.svg" width="100%" alt="An illustrated field notebook landscape with hills, plants and birds, introducing Yunyi Zhang"/>
-  <p>
-    <sub>University of Edinburgh · MSc Ecology, Evolution and Biodiversity</sub><br/>
-    <sub>University of Liverpool / Xi'an Jiaotong-Liverpool University · BSc (Hons) Environmental Science</sub>
-  </p>
-  <img src="assets/soft-divider.svg" width="108" alt=""/>
+
+# Yunyi Zhang
+
+**Ecology · Evolution · Biodiversity**
+
+MSc student at the **University of Edinburgh**  
+BSc (Hons) Environmental Science · University of Liverpool / Xi'an Jiaotong-Liverpool University
+
+*Exploring nature through ecology, data and small interactive tools.*
+
+`R` · `Python` · `GIS` · `Research methods`
+
+<br/>
+
 </div>
 
-### 01 / A little about me
+## About me
+
+I'm interested in **biodiversity conservation**, **human–nature connections**, and ways of making ecological ideas easier to explore through **data**, **visualisation**, and **interactive projects**.
+
+我关注**生物多样性保护**、**人与自然的关系**，以及如何用**数据**、**可视化**和一些小项目去更直观地探索自然世界。
+
+---
+
+## Interests & tools
+
+- 🍃 Biodiversity conservation  
+- 🐾 Human–wildlife interactions  
+- 📊 Ecological data & visualisation  
+- 🧭 Research methods / small scientific tools  
+
+---
+
+## Selected projects
+
+- **[Archipelago Evolution Lab](https://github.com/yunyizhang2202/Archipelago-Evolution-Lab)**  
+  An interactive Chinese-language evolution simulator exploring natural selection, drift and migration across islands.
+
+- **[Penguin Project](https://github.com/yunyizhang2202/penguin_project)**  
+  Exploring Palmer penguins' morphometric data with R.
+
+---
+
+## A small corner
 
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <p>I'm curious about <b>biodiversity conservation</b>, <b>human–wildlife encounters</b>, and the many ways we connect with the natural world.</p>
-      <p>I enjoy turning ecological questions into research, visual stories, and small interactive experiments.</p>
-      <p>我关注生物多样性保护、人与野生动物的相遇，以及人与自然之间的联系。也喜欢用数据与交互工具，让生态学问题变得更直观。</p>
+    <td align="center" width="140">
+      <img src="assets/ali-home.gif" width="104" alt="阿栗 Ali" /><br />
+      <sub><b>阿栗 · Ali</b></sub><br />
+      <sub>steady, playful, leopard-cat energy</sub>
     </td>
-    <td width="42%" valign="top">
-      <p><b>Field notes</b> 🌿</p>
-      <p>🐾 Human–nature connections<br/>
-      🌱 Biodiversity &amp; conservation<br/>
-      📊 Ecological data &amp; visualisation<br/>
-      🧭 Research methods</p>
-      <p><sub><code>R</code> · <code>Python</code> · <code>GIS</code></sub></p>
+    <td align="center" width="140">
+      <img src="assets/xiaomai-home.gif" width="104" alt="小麦 Xiaomai" /><br />
+      <sub><b>小麦 · Xiaomai</b></sub><br />
+      <sub>soft, warm, fluffy energy</sub>
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="assets/specimen-v6.svg" width="100%" alt="A botanical field specimen illustration with key research interests"/>
-</div>
+---
 
-### 02 / Little things I've made
+## Currently building
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/yunyizhang2202/Archipelago-Evolution-Lab"><img src="assets/islands-v6.svg" width="100%" alt="An illustrated archipelago, representing the Archipelago Evolution Lab"/></a>
-      <p><b><a href="https://github.com/yunyizhang2202/Archipelago-Evolution-Lab">Archipelago Evolution Lab ↗</a></b></p>
-      <p><sub>A small interactive space for exploring natural selection, genetic drift, and migration among islands.</sub></p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/yunyizhang2202/penguin_project"><img src="assets/penguins-v6.svg" width="100%" alt="An illustrated penguin, representing a Palmer penguins data project"/></a>
-      <p><b><a href="https://github.com/yunyizhang2202/penguin_project">Penguin Project ↗</a></b></p>
-      <p><sub>A little R exploration of Palmer penguins and their morphometric data.</sub></p>
-    </td>
-  </tr>
-</table>
-
-### 03 / A small corner 🐾
-
-<div align="center">
-  <img src="assets/pet-nook-v7.svg" width="100%" alt="A soft woodland banner with autumn acorns and wheat"/>
-  <p><sub>我的两只虚拟宠物 · 阿栗和小麦</sub></p>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="165">
-      <img src="assets/ali-home-v7.webp" width="116" alt="阿栗 Ali, a relaxed slender leopard-patterned cat lying down"/><br/>
-      <b>阿栗 · Ali</b><br/>
-      <sub>quietly curious · quietly playful</sub>
-    </td>
-    <td align="center" width="165">
-      <img src="assets/xiaomai-home-v7.webp" width="116" alt="小麦 Xiaomai, a fluffy cream-coloured cat playfully lying on its side"/><br/>
-      <b>小麦 · Xiaomai</b><br/>
-      <sub>a little ball of sunshine</sub>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <br/>
-  <sub>✦ A little field notebook for nature, ideas, and things still growing. ✦</sub>
-</div>
+- A personal digital archive  
+- Ecology / biodiversity related study notes and projects  
+- Small tools and experiments that make learning more visual and interactive

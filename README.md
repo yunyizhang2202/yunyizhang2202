@@ -60,12 +60,12 @@
     <td align="center" width="218">
       <img src="assets/ali-home.gif" width="176" alt="阿栗 Ali, a relaxed slender leopard-patterned cat lying down"/><br/>
       <b>阿栗 · Ali</b><br/>
-
+      <sub>quietly curious · quietly playful</sub>
     </td>
     <td align="center" width="218">
       <img src="assets/xiaomai-home.gif" width="176" alt="小麦 Xiaomai, a fluffy cream-coloured cat playfully lying on its side"/><br/>
       <b>小麦 · Xiaomai</b><br/>
-
+      <sub>a little ball of sunshine</sub>
     </td>
   </tr>
 </table>

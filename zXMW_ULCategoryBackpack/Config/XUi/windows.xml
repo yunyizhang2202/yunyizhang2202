@@ -1,0 +1,58 @@
+<configs>
+  <!-- Preserve UL native rows, viewport, scrollbar and all Smart Network controls. -->
+  <append xpath="//window[@name='windowBackpack']/rect[@pos='345,0']/rect[@name='content']">
+    <label name="xmwCategoryStatus" pos="130,-8" size="175,24" font_size="18" text="分类：全部" color="222,206,163"/>
+    <rect name="xmwCategoryBar" depth="25" pos="9,-39" size="540,26">
+      <rect pos="0,0" size="52,26">
+        <sprite depth="0" size="52,26" atlas="UIBackground" sprite="ui_fill" color="35,65,55,210"/>
+        <button depth="1" name="xmwCatAll" pos="0,0" size="52,26" atlas="UIBackground" sprite="ui_fill" hoversprite="ui_fill" selectedsprite="ui_fill" defaultcolor="35,65,55,210" hovercolor="60,125,95,255" selectedcolor="60,125,95,255" on_press="true" sound="[paging_click]"/>
+        <label depth="2" pos="0,-3" size="52,22" font_size="18" justify="center" text="全部" color="240,240,240" name="xmwCatAllText"/>
+      </rect>
+      <rect pos="54,0" size="52,26">
+        <sprite depth="0" size="52,26" atlas="UIBackground" sprite="ui_fill" color="35,65,55,210"/>
+        <button depth="1" name="xmwCatWeapon" pos="0,0" size="52,26" atlas="UIBackground" sprite="ui_fill" hoversprite="ui_fill" selectedsprite="ui_fill" defaultcolor="35,65,55,210" hovercolor="60,125,95,255" selectedcolor="60,125,95,255" on_press="true" sound="[paging_click]"/>
+        <label depth="2" pos="0,-3" size="52,22" font_size="18" justify="center" text="武器" color="240,240,240" name="xmwCatWeaponText"/>
+      </rect>
+      <rect pos="108,0" size="52,26">
+        <sprite depth="0" size="52,26" atlas="UIBackground" sprite="ui_fill" color="35,65,55,210"/>
+        <button depth="1" name="xmwCatAmmo" pos="0,0" size="52,26" atlas="UIBackground" sprite="ui_fill" hoversprite="ui_fill" selectedsprite="ui_fill" defaultcolor="35,65,55,210" hovercolor="60,125,95,255" selectedcolor="60,125,95,255" on_press="true" sound="[paging_click]"/>
+        <label depth="2" pos="0,-3" size="52,22" font_size="18" justify="center" text="弹药" color="240,240,240" name="xmwCatAmmoText"/>
+      </rect>
+      <rect pos="162,0" size="52,26">
+        <sprite depth="0" size="52,26" atlas="UIBackground" sprite="ui_fill" color="35,65,55,210"/>
+        <button depth="1" name="xmwCatTool" pos="0,0" size="52,26" atlas="UIBackground" sprite="ui_fill" hoversprite="ui_fill" selectedsprite="ui_fill" defaultcolor="35,65,55,210" hovercolor="60,125,95,255" selectedcolor="60,125,95,255" on_press="true" sound="[paging_click]"/>
+        <label depth="2" pos="0,-3" size="52,22" font_size="18" justify="center" text="工具" color="240,240,240" name="xmwCatToolText"/>
+      </rect>
+      <rect pos="216,0" size="52,26">
+        <sprite depth="0" size="52,26" atlas="UIBackground" sprite="ui_fill" color="35,65,55,210"/>
+        <button depth="1" name="xmwCatGear" pos="0,0" size="52,26" atlas="UIBackground" sprite="ui_fill" hoversprite="ui_fill" selectedsprite="ui_fill" defaultcolor="35,65,55,210" hovercolor="60,125,95,255" selectedcolor="60,125,95,255" on_press="true" sound="[paging_click]"/>
+        <label depth="2" pos="0,-3" size="52,22" font_size="18" justify="center" text="装备" color="240,240,240" name="xmwCatGearText"/>
+      </rect>
+      <rect pos="270,0" size="52,26">
+        <sprite depth="0" size="52,26" atlas="UIBackground" sprite="ui_fill" color="35,65,55,210"/>
+        <button depth="1" name="xmwCatMedical" pos="0,0" size="52,26" atlas="UIBackground" sprite="ui_fill" hoversprite="ui_fill" selectedsprite="ui_fill" defaultcolor="35,65,55,210" hovercolor="60,125,95,255" selectedcolor="60,125,95,255" on_press="true" sound="[paging_click]"/>
+        <label depth="2" pos="0,-3" size="52,22" font_size="18" justify="center" text="医疗" color="240,240,240" name="xmwCatMedicalText"/>
+      </rect>
+      <rect pos="324,0" size="52,26">
+        <sprite depth="0" size="52,26" atlas="UIBackground" sprite="ui_fill" color="35,65,55,210"/>
+        <button depth="1" name="xmwCatFood" pos="0,0" size="52,26" atlas="UIBackground" sprite="ui_fill" hoversprite="ui_fill" selectedsprite="ui_fill" defaultcolor="35,65,55,210" hovercolor="60,125,95,255" selectedcolor="60,125,95,255" on_press="true" sound="[paging_click]"/>
+        <label depth="2" pos="0,-3" size="52,22" font_size="18" justify="center" text="饮食" color="240,240,240" name="xmwCatFoodText"/>
+      </rect>
+      <rect pos="378,0" size="52,26">
+        <sprite depth="0" size="52,26" atlas="UIBackground" sprite="ui_fill" color="35,65,55,210"/>
+        <button depth="1" name="xmwCatMaterial" pos="0,0" size="52,26" atlas="UIBackground" sprite="ui_fill" hoversprite="ui_fill" selectedsprite="ui_fill" defaultcolor="35,65,55,210" hovercolor="60,125,95,255" selectedcolor="60,125,95,255" on_press="true" sound="[paging_click]"/>
+        <label depth="2" pos="0,-3" size="52,22" font_size="18" justify="center" text="材料" color="240,240,240" name="xmwCatMaterialText"/>
+      </rect>
+      <rect pos="432,0" size="52,26">
+        <sprite depth="0" size="52,26" atlas="UIBackground" sprite="ui_fill" color="35,65,55,210"/>
+        <button depth="1" name="xmwCatBooks" pos="0,0" size="52,26" atlas="UIBackground" sprite="ui_fill" hoversprite="ui_fill" selectedsprite="ui_fill" defaultcolor="35,65,55,210" hovercolor="60,125,95,255" selectedcolor="60,125,95,255" on_press="true" sound="[paging_click]"/>
+        <label depth="2" pos="0,-3" size="52,22" font_size="18" justify="center" text="知识" color="240,240,240" name="xmwCatBooksText"/>
+      </rect>
+      <rect pos="486,0" size="52,26">
+        <sprite depth="0" size="52,26" atlas="UIBackground" sprite="ui_fill" color="35,65,55,210"/>
+        <button depth="1" name="xmwCatOther" pos="0,0" size="52,26" atlas="UIBackground" sprite="ui_fill" hoversprite="ui_fill" selectedsprite="ui_fill" defaultcolor="35,65,55,210" hovercolor="60,125,95,255" selectedcolor="60,125,95,255" on_press="true" sound="[paging_click]"/>
+        <label depth="2" pos="0,-3" size="52,22" font_size="18" justify="center" text="其他" color="240,240,240" name="xmwCatOtherText"/>
+      </rect>
+    </rect>
+  </append>
+</configs>

@@ -1,0 +1,14 @@
+# Local install artifacts, game and user data
+*.dll
+*.exe
+*.log
+*.bak
+*.zip
+InstallReceipt.json
+ItemNames_Local.tsv
+LocalItemNames.js
+7DaysToDie_Data/
+BepInEx/
+Saves/
+XMW_CategoryBackpack_Backups/
+__pycache__/

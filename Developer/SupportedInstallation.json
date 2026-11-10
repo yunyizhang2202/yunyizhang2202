@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "target": "UL 2.7.40 / 7DTD V2.6 b14",
+  "checks": [
+    {
+      "path": "Mods/UndeadLegacy/UndeadLegacy.dll",
+      "label": "Undead Legacy 2.7.40",
+      "sha256": "69446cfa36e04513cb435abce3b6f5561c2bd25e1278317893ffb993e8edf511"
+    },
+    {
+      "path": "7DaysToDie_Data/Managed/Assembly-CSharp.dll",
+      "label": "7 Days to Die V2.6 b14",
+      "sha256": "a9b83757764db03733d994a2e4453c88793b88adb303fb1d072da5bf517bd038"
+    }
+  ],
+  "note": "Pinned to the actual game assemblies supplied for this private mod. ModInfo.xml can retain 2.7.01 and is not a runtime version source."
+}

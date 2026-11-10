@@ -1,0 +1,39 @@
+{
+  "version": "0.3.4-rc1",
+  "items_resolved": 2099,
+  "item_modifiers": 190,
+  "block_ids_found": 7132,
+  "map_entries": 9490,
+  "english_names_available_for_resolved_items": 1035,
+  "zh_localization_available": false,
+  "coverage_limit": "Original supplied XML plus four included custom item files; block include set and third-party runtime items may be incomplete.",
+  "assertions": 17347,
+  "semantic_examples": 65,
+  "resource_candidates_unresolved": {
+    "ulmresourcemaster": "未找到已审阅的资源分类；保留其他，不用模糊关键词硬塞",
+    "partsmaster": "未找到已审阅的资源分类；保留其他，不用模糊关键词硬塞"
+  },
+  "material_item_counts": {
+    "26": 6,
+    "27": 19,
+    "21": 38,
+    "20": 35,
+    "24": 20,
+    "22": 62,
+    "23": 44,
+    "25": 12
+  },
+  "main_item_counts": {
+    "3": 87,
+    "1": 141,
+    "9": 571,
+    "7": 236,
+    "2": 91,
+    "4": 579,
+    "5": 20,
+    "6": 102,
+    "8": 272
+  },
+  "runtime_csharp_compiled_here": false,
+  "in_game_test": "pending"
+}

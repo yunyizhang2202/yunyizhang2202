@@ -1,0 +1,11 @@
+Design references, read 2026-11-09. Concepts only; no third-party implementation copied.
+Mazriq Auto Sorting Backpack: functional tabs and explicit per-item rules.
+https://www.nexusmods.com/7daystodie/mods/10869
+Smart Network: knowledge/research versus resources. Existing routing is NOT edited by this mod.
+https://www.nexusmods.com/7daystodie/mods/12283
+Better Sorting: meaningful categories rather than generic Item labels.
+https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159
+
+Inputs are the user-supplied UL_Backpack_Files_For_Xiaomai.zip, the four supplied items_*.xml.xsl includes, and the earlier synced UL English.txt.
+The synced Chinese language table and complete third-party runtime item definitions were not available.
+Developer map rebuilding expects these private inputs and lxml; it is not part of INSTALL.cmd.

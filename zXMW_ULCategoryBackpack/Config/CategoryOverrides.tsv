@@ -1,0 +1,4 @@
+# Optional exact item_id<TAB>category_id; higher priority than generated maps.
+# Main:1 Weapons,2 Ammo,3 Tools,4 Gear,5 Medical,6 FoodDrink,7 Materials,8 Knowledge,9 Other
+# Leaves:20 OreIngots,21 BasicStock,22 IndustrialParts,23 VehicleParts,24 Chemicals,25 Building,26 Farming,27 Energy
+# Old v033 leaf codes 10..17 must be migrated by the installer.

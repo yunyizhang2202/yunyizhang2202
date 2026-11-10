@@ -10,7 +10,7 @@ A **category-filtering UI inside the existing Undead Legacy inventory**. The goa
 
 - Targeted at **7 Days to Die V2.6 b14 + Undead Legacy 2.7.40**, verified against specific supplied game DLL SHA-256 values at install time; other builds are not confirmed.
 - Earlier v0.3.2 was installed and exercised in-game by a user; v0.3.3 compiled and passed mock/contract tests on that user's Windows installation.
-- **v0.3.4-rc1 has not yet been confirmed in a live game**, multiplayer, or across other machines. **Back up your saves and Mods folder and test in a spare world first.**
+- **v0.3.4-rc1 was reported working in-game by the original tester on 2026-11-10**, including the updated categories. This is a single-user confirmation, **not** independent validation across other PCs, game versions, multiplayer servers, or anti-cheat modes. **Back up your saves and Mods folder and test in a spare world first.**
 - Requires running with **EAC disabled** for Harmony mod loading. Use only in sessions where this is permitted.
 
 ## Features / 功能
@@ -20,6 +20,10 @@ A **category-filtering UI inside the existing Undead Legacy inventory**. The goa
 - Keeps native Undead Legacy inventory slots, scrollbar and item interactions in place; **does not enlarge capacity**.
 - Per-item map plus optional exact-ID overrides, with unknown items falling back to Other.
 - Designed to coexist with Smart Network without modifying its storage routing. **This is a design goal, not a blanket compatibility guarantee.**
+
+## Download / 下载
+
+- [Download the complete source installer ZIP / 下载完整源码安装包](RELEASES/UndeadLegacy_CategoryBackpack_v0.3.4-rc1_PUBLIC_SOURCE.zip). Extract all files before running `INSTALL.cmd`. This archive contains original project files only; the plugin DLL is compiled on the player's computer.
 
 ## Install / 安装
 
